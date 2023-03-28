@@ -1,1 +1,9 @@
-# NVIDIA_risk_management
+# NVIDIA risk management
+
+### Authors
+Filip Oszczepaliński
+Michał Wiktorowski
+Szymon Malec
+Damian Szuster
+
+### Describtion
