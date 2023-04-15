@@ -6,4 +6,4 @@ Michał Wiktorowski <br>
 Szymon Malec <br>
 Damian Szuster
 
-### Describtion
+### Description
